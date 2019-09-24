@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TYHNetworkMoudle"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "TYHNetworkMoudle."
   spec.description  = 'The project is about TYHNetworkMoudle'
 

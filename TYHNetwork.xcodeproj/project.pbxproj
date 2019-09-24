@@ -80,7 +80,6 @@
 		2B5B99E42339AB9B00C43B41 /* TYHNetworkMoudle */ = {
 			isa = PBXGroup;
 			children = (
-				2B5B99E82339ABD100C43B41 /* Target */,
 				2B5B99E72339ABC600C43B41 /* Classes */,
 			);
 			path = TYHNetworkMoudle;
@@ -89,7 +88,8 @@
 		2B5B99E72339ABC600C43B41 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				2B5B99E92339AC1E00C43B41 /* Extension_TYHNetworkMoudle.swift */,
+				2B5B99E82339ABD100C43B41 /* Target */,
+				2B5B99EB2339AE2A00C43B41 /* Extension */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -99,6 +99,14 @@
 			children = (
 			);
 			path = Target;
+			sourceTree = "<group>";
+		};
+		2B5B99EB2339AE2A00C43B41 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				2B5B99E92339AC1E00C43B41 /* Extension_TYHNetworkMoudle.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		568AC14F0EDCC5A45612D0CD /* Frameworks */ = {
