@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TYHNetwork/Pods-TYHNetwork-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework

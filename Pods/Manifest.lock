@@ -1,3 +1,20 @@
-PODFILE CHECKSUM: 870c21e88a71b2acad5d0dfb191b87b16141be8d
+PODS:
+  - Alamofire (4.9.0)
+  - CTMediator (25)
+
+DEPENDENCIES:
+  - Alamofire
+  - CTMediator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CTMediator
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+
+PODFILE CHECKSUM: af73b10865b1c4e87bfe0c3e1399d917aba6c60b
 
 COCOAPODS: 1.7.5

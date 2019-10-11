@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        CTMediator.sharedInstance()?.tyh_networkConfingBaseURL(baseURL: "http://api.securesmart.cn/cameraServer2/v2/")
         return true
     }
 
