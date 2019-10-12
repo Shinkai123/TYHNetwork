@@ -14,7 +14,7 @@ public typealias DownloadProgressCallBack = (_ progress:Any, _ data:Data, _ url:
 //下载结果回调
 public typealias DownloadFinishCallBack = (_ result:DownloadState, _ url : String) -> ()
 
-class TYHDownloadManager: NSObject {
+public class TYHDownloadManager: NSObject {
     static let defalut: TYHDownloadManager = TYHDownloadManager ()
     
     //下载进度回调

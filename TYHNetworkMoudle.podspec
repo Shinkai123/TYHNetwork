@@ -6,10 +6,12 @@
 #  To see working Podspecs in the CocoaPods repo see https://github.com/CocoaPods/Specs/
 #
 
+
+
 Pod::Spec.new do |spec|
 
   spec.name         = "TYHNetworkMoudle"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "TYHNetworkMoudle."
   spec.description  = 'The project is about TYHNetworkMoudle'
 
