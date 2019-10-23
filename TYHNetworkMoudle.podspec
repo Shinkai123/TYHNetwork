@@ -11,7 +11,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "TYHNetworkMoudle"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "TYHNetworkMoudle."
   spec.description  = 'The project is about TYHNetworkMoudle'
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "TYHNetworkMoudle/Classes/Extension/*{.swift}"
+  spec.source_files  = "TYHNetworkMoudle/Classes/**/*{.swift}"
 
 
   #
